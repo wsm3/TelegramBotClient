@@ -1,15 +1,5 @@
 <?php
 
-ini_set('error_reporting', E_ALL);
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-
-
-ini_set('date.timezone', 'Europe/Moscow');
-
-
-//https://unnikked.ga/understanding-telegram-inline-bots-73ac9aeea643#.wpb27qh7g
-
 
 abstract class TBClient
 {
